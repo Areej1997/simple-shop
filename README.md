@@ -1,2 +1,1 @@
-# simple-shop
-Admin - Client Shop Market
+# Simple Shop for Admin and Clients.

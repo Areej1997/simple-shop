@@ -1,0 +1,30 @@
+       <div class="clear">
+        </div>
+
+        <div class="grid_10">
+            <div class="box round first">
+                <h2>
+                 Add Product </h2>
+                <div class="block">
+                   <form name ="form1" action ="" method="post" encrypt="multipart/form-data">
+                       <table>
+                           <tr>
+                               <td>Product Image </td>
+                               <td><input type ="file" name="pimage" ></td>
+                            </tr>
+                            <tr>
+                               <td>Product Description  : </td>
+                               <td><textarea cols="19" rows="10" name="pdesc" ></textarea></td>
+                            </tr>
+                            <tr>
+                               <td>Product Price </td>
+                               <td><input type ="text" name="pprice" ></td>
+                            </tr>
+                            <td colspan="3" aligh="center"><input type="submit" name="submit1" value="upload"></td>
+                </div>
+            </div>
+    </form>
+        <div class="grid_2">
+               
+        </div>
+       
