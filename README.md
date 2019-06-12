@@ -12,5 +12,12 @@ The client can choose an item from the shopping list items
 ## ScreenShots
 
 ![Optional Text](../master/screenshots/1.png)
-
-
+<br>
+![Optional Text](../master/screenshots/2.png)
+<br>
+![Optional Text](../master/screenshots/3.png)
+<br>
+![Optional Text](../master/screenshots/4.png)
+<br>
+![Optional Text](../master/screenshots/5.png)
+<br>
