@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Jun 13, 2019 at 12:04 AM
+-- Generation Time: Jun 13, 2019 at 01:26 AM
 -- Server version: 10.0.38-MariaDB-0ubuntu0.16.04.1
 -- PHP Version: 7.1.26-1+ubuntu16.04.1+deb.sury.org+1
 
@@ -58,12 +58,10 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `p_image`, `p_description`, `p_price`) VALUES
-(21, 'product_image/5b58fc2991043094529f01ec0afb72aa', 'hhhhhhhhhhhhhh', '666'),
-(22, 'product_image/2a18d3e55e75edd17411118f1ffbc932', 'dddddddddddd', '22222'),
-(23, 'product_image/eb9bcc2193017b17b0dbdff7c8007784', 'wwwwwwwwww', '222'),
-(24, 'product_image/2d10c050bdf6ff5b5125468660634a02', 'eeeeeeeeeeeeeeeee1', '11111111'),
-(25, 'product_image/1a7f71c40a104232f02f10428a53d814', 'bbbbbbbbbbbbbb', '44'),
-(26, 'product_image/afeb51e747537e3081745e5349b1962e', 'ttttttttttttttt', '6666666666');
+(28, 'product_image/95841f09422d15bfcd5eb1b72e688f50bag.jpeg', ' laptop bag', '250 $'),
+(29, 'product_image/f709f8e4854c874e0bf38ad3165f4a33dress.jpeg', 'Formal black dress for ladies ', '900$'),
+(30, 'product_image/b5dde66a96da75bd3b727a4003d4ad86wdress.jpeg', 'Wedding dress', '3000$'),
+(31, 'product_image/35c8a6e79255069e3bd6f62bd8469b41jacket.jpeg', 'Woman Ultra Light down Jacket', '700$');
 
 --
 -- Indexes for dumped tables
@@ -94,7 +92,7 @@ ALTER TABLE `admin_login`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=32;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
