@@ -9,9 +9,8 @@ Open phpMyAdmin and choose Import bar,Importing into the current server page wil
 Then admin have the access to edit or delete or add an item 
 The client can choose an item from the shopping list items
 
-![screenshots](1.png)
-![screenshots](2.png)
-![screenshots](3.png)
-![screenshots](4.png)
-![screenshots](5.png)
+## ScreenShots
+
+![Optional Text](../master/screenshots/1.png)
+
 
